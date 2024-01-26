@@ -15,7 +15,7 @@ public class HolaDam {
      */
     public static void main(String[] args) {
         System.out.println("HolaMuendo");
-        cambiado
+        System.out.println("Cambiado");
     }
  
             
