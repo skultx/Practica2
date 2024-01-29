@@ -11,6 +11,7 @@ package practica2;
 public class HolaDam {
     public static void main(String[] args) {
         System.out.println("hola");
+        System.out.println("Mergeada");
     }
     
 }
